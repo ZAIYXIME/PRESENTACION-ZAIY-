@@ -1,4 +1,5 @@
 Hola, soy Zaiy 👋
+
 Desde pequeña, siempre me ha apasionado la tecnología y la ingeniería. 
 A pesar de los desafíos que él enfrenta debido a mi discapacidad, nunca he permitido que eso defina mis límites. En 2018, tuve la increíble oportunidad de colaborar con Microsoft, un logro que marcó un antes y un después en mi vida.
 Esta experiencia me demostró —y quiero demostrarle al mundo— que con determinación, esfuerzo y pasión, no hay barreras imposibles de superar.
