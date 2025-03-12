@@ -12,9 +12,13 @@ Actualmente, estoy cursando la carrera de Ingeniería en Sistemas Computacionale
 💡 Aptitudes principales
 
 🏗Microsoft Azure
+
 🤖 Aprendizaje automático de Microsoft Azure
+
 📊 Métricas de rendimiento, calidad y financieras
+
 Optimización y análisis de datos.
+
 Cómo contactarme:
 📧zairaximejasso@hotmail.com 
 
